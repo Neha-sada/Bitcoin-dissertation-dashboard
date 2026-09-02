@@ -10,4 +10,7 @@ EigenTrust algorithm successfully identified malicious nodes
 Tools Used
 Python | NetworkX | NumPy | Matplotlib | Visual Studio Code | Power BI
 
+# Full Research Report
+See Bitcoin Dissertation Research Report.pdf for the complete dissertation including methodology, literature review and findings.
+
 
